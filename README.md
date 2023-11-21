@@ -1,2 +1,2 @@
 # IRW-MEF
-The code for paper “IRW-MEF: Informative Random Walk for Multi-Exposure Image Fusion”
+Thanks for your attention to our paper "IRW-MEF: Information Random Walks for Multi-Exposure Image Fusion". The code will be open after acceptance.
